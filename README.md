@@ -1,5 +1,5 @@
 # hello-world
-Learning to use GitHub
+Learn to use GitHub
 
 Name: Bostoncake
 School & Department: Department of Computer Science and Technology, Tsinghua University, Beijing, China
